@@ -1,5 +1,6 @@
 import React from 'react';
 import ChallanCalculator from './components/ChallanCalculator';
+import './App.css'
 
 function App() {
   return (
