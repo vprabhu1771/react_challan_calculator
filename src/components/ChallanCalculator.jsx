@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import './ChallanCalculator.css'; // Link to the CSS file
 
 const ChallanCalculator = () => {
   const [amount500, setAmount500] = useState('');
